@@ -3,7 +3,7 @@
 I'm a passionate **UI/UX Designer** currently diving into the world of **Full Stack Development**. My journey in design has been all about creating user-friendly and aesthetically pleasing experiences, and now I'm expanding my skill set to build and bring these ideas to life from the ground up!
 
 ### 🛠 Skills & Tools
-- **Design:** Figma, Adobe XD
+- **Design:** Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator
 - **Development:** HTML, CSS, C, C++
 - **Version Control:** Git
 - **Editor:** VS Code
