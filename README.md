@@ -1,8 +1,6 @@
 # 👋 Hello, World!
 
-I'm a passionate **UI/UX Designer** on an exciting journey into the world of **Full Stack Development**! 🌱 From designing intuitive, user-friendly interfaces to now building them from the ground up—I'm thrilled to combine design and development skills to create seamless digital experiences! 🚀
-
-<img src="https://tenor.com/bmS5J.gif" alt="Exciting GIF" />
+I'm a passionate **UI/UX Designer** on an exciting journey into the world of **Full Stack Development**! From designing intuitive, user-friendly interfaces to now building them from the ground up—I'm thrilled to combine design and development skills to create seamless digital experiences! 🚀
 
 ---
 
@@ -14,6 +12,7 @@ I’ve gathered a set of tools and skills that allow me to design and build from
 | ------------------ | ---------------------------------------------- |
 | 🎨 **Design**      | Figma, Adobe XD, Photoshop, Illustrator        |
 | 💻 **Development** | HTML, CSS, JavaScript, C, C++                  |
+| 📚 **Markup**      | Markdown                                       |
 | 🗂️ **Version Control** | Git                                            |
 | 📝 **Editor**      | VS Code                                        |
 
@@ -48,13 +47,12 @@ I’m excited to network with fellow designers, developers, and anyone passionat
 - 📍 **Location**: Dhaka, Bangladesh 🌍
 - 📧 **Email**: [rakinalshahriar2004@gmail.com](mailto:rakinalshahriar2004@gmail.com) | [rakin.al.shahriar@gmail.com](mailto:rakin.al.shahriar@gmail.com)
 - 🔗 **LinkedIn**: [rakinalshahriar](https://www.linkedin.com/in/rakinalshahriar)
+- 📘 **Facebook**: [rakinalshahriar.69](https://www.facebook.com/rakinalshahriar.69)
 
 ---
 
 ### 🚀 Let's Build the Future Together!
 
 I’m here to learn, grow, and connect with like-minded people. Whether you’re a seasoned developer, fellow designer, or just getting started, let's collaborate and make something amazing. 🌟
-
-<img src="https://tenor.com/bqrUA.gif" alt="Another GIF" />
 
 > “Good things come to those who code!” 💻💡
