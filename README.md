@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://t.ly/DKJqw" alt="Portfolio Link" width="150px" />
+</div>
+
 # 👋 Hello, World!
 
 I'm a passionate **UI/UX Designer** on an exciting journey into the world of **Full Stack Development**! From designing intuitive, user-friendly interfaces to now building them from the ground up—I'm thrilled to combine design and development skills to create seamless digital experiences! 🚀
@@ -6,7 +10,7 @@ I'm a passionate **UI/UX Designer** on an exciting journey into the world of **F
 
 ### 🛠 **Skills & Tools**
 
-I’ve gathered a set of tools and skills that allow me to design and build from concept to code:
+<div align="center">
 
 | **Category**       | **Tools**                                      |
 | ------------------ | ---------------------------------------------- |
@@ -16,9 +20,11 @@ I’ve gathered a set of tools and skills that allow me to design and build from
 | 🗂️ **Version Control** | Git                                            |
 | 📝 **Editor**      | VS Code                                        |
 
+</div>
+
 ---
 
-### 🌱 **Currently Learning**  
+### 🖥️ **Currently Learning**  
 I’m constantly learning and adapting, diving into **web development** with a focus on both **frontend** and **backend** technologies. Every new skill learned is another step toward building a complete, functional web experience. My short attention span makes the journey fun and full of surprises! 😅
 
 **Current focus**:
