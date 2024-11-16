@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://t.ly/DKJqw" alt="Portfolio Link" width="150px" />
+  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Portfolio Link" width="150px" />
 </div>
 
 # 👋 Hello, World!
