@@ -15,7 +15,7 @@ I'm a passionate **UI/UX Designer** on an exciting journey into the world of **F
 | **Category**       | **Tools**                                      |
 | ------------------ | ---------------------------------------------- |
 | 🎨 **Design**      | Figma, Adobe XD, Photoshop, Illustrator        |
-| 💻 **Development** | HTML, CSS, JavaScript, C, C++                  |
+| 💻 **Development** | HTML, CSS, JavaScript, C, C++,  Node.js, Express.js|                 |
 | 📚 **Markup**      | Markdown                                       |
 | 🗂️ **Version Control** | Git                                            |
 | 📝 **Editor**      | VS Code                                        |
