@@ -15,9 +15,9 @@ I'm a passionate **UI/UX Designer** on an exciting journey into the world of **F
 | **Category**       | **Tools**                                      |
 | ------------------ | ---------------------------------------------- |
 | 🎨 **Design**      | Figma, Adobe XD, Photoshop, Illustrator        |
-| 💻 **Development** | HTML, CSS, JavaScript, C, C++,  Node.js, Express.js|                 |
+| 💻 **Development** | HTML, CSS, JavaScript, C, C++, Node.js, Express.js, ReactJS, Tailwind CSS |
 | 📚 **Markup**      | Markdown                                       |
-| 🗂️ **Version Control** | Git                                            |
+| 🛂 **Version Control** | Git                                            |
 | 📝 **Editor**      | VS Code                                        |
 
 </div>
@@ -28,8 +28,7 @@ I'm a passionate **UI/UX Designer** on an exciting journey into the world of **F
 I’m constantly learning and adapting, diving into **web development** with a focus on both **frontend** and **backend** technologies. Every new skill learned is another step toward building a complete, functional web experience. My short attention span makes the journey fun and full of surprises! 😅
 
 **Current focus**:
-- 🌐 **Frontend**: React.js, Tailwind CSS
-- 🔙 **Backend**: Node.js, Express, SQL/NoSQL Databases
+- 🖙 SQL/NoSQL Databases
 
 ---
 
@@ -47,13 +46,13 @@ I have a short attention span, but that means I’m always discovering new, enga
 
 ---
 
-### 📫 **Let's Connect!**  
+### 📧 **Let's Connect!**  
 I’m excited to network with fellow designers, developers, and anyone passionate about tech! Feel free to check out my work, provide feedback, or just drop a hello. Let’s create something awesome together! 💬✨
 
 - 📍 **Location**: Dhaka, Bangladesh 🌍
 - 📧 **Email**: [rakinalshahriar2004@gmail.com](mailto:rakinalshahriar2004@gmail.com) | [rakin.al.shahriar@gmail.com](mailto:rakin.al.shahriar@gmail.com)
 - 🔗 **LinkedIn**: [rakinalshahriar](https://www.linkedin.com/in/rakinalshahriar)
-- 📘 **Facebook**: [rakinalshahriar.69](https://www.facebook.com/rakinalshahriar.69)
+- 📚 **Facebook**: [rakinalshahriar.69](https://www.facebook.com/rakinalshahriar.69)
 
 ---
 
